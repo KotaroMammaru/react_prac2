@@ -26,6 +26,10 @@
       max-width: 100%;
       border-radius: 10px;
     }
+
+    .vis-hidden {
+      visibility: hidden;
+    }
   
     .description {
       width: 35%;
@@ -64,6 +68,10 @@
       height: 220px;
       max-width: 100%;
       border-radius: 10px;
+    }
+
+    .vis-hidden {
+      visibility: hidden;
     }
   
     .description {
@@ -108,6 +116,10 @@
       height: 350px;
       max-width: 100%;
       border-radius: 10px;
+    }
+
+    .vis-hidden {
+      visibility: hidden;
     }
   
     .description {
